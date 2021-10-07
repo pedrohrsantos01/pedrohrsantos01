@@ -1,8 +1,9 @@
 ### Olá, sou Pedro Santos 👋
 
 - 🔭 Atualmente trabalho com Professor de TI
-- 🌱 Neste momento estudando Desenvolvimente Full Stack 
-- Formação base em Tecnologia de Jogos Digitais
+- 🌱 Neste momento estudando Desenvolvimento Full Stack 
+- Graduação em Tecnologia de Jogos Digitais
+- Pós-Graduação em Docência do Ensino Superior
 
 
 <div align="center">
