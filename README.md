@@ -1,9 +1,10 @@
-### Olá, sou Pedro Santos 👋
+### Hello, I'm Pedro Santos 👋
 
-- 🔭 Atualmente trabalho como Desenvolvedor Full Stack Jr/Professor de TI
-- 🌱 Neste momento estudando Desenvolvimento Full Stack 
-- Graduação em Tecnologia de Jogos Digitais
-- Pós-Graduação em Docência do Ensino Superior
+- 🔭 Currently working as a Developer Full Stack Jr
+- 4 years of experience as a teacher of the higher course of Digital Games
+- 🌱 At the moment deepening my knowledge in Full Stack Development
+- Degree in Digital Game Technology
+- Postgraduate Diploma in Higher Education Teaching
 
 
 <div align="center">
