@@ -1,6 +1,6 @@
 ### Hello, I'm Pedro Santos 👋
 
-- 🔭 Currently working as a Developer Full Stack Jr
+- 🔭 Currently working as a Developer Full Stack 
 - 4 years of experience as a teacher of the higher course of Digital Games
 - 🌱 At the moment deepening my knowledge in Full Stack Development
 - Degree in Digital Game Technology
